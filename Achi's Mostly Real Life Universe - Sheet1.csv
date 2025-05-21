@@ -1,10 +1,10 @@
-Test 1
+FBS 2010
 SEC,East,West,,,,,,,,,,,
 ACC,Atlantic,Coastal,,,,,,,,,,,
-Big Ten,East,West,,,,,,,,,,,
-Big 12,Sheriff,Outlaw,,,,,,,,,,,
-Pac 12,North,South,,,,,,,,,,,
-AAC,East,West,,,,,,,,,,,
+BIG TEN,East,West,,,,,,,,,,,
+BIG 12,Sheriff,Outlaw,,,,,,,,,,,
+PAC 12,North,South,,,,,,,,,,,
+MWC,East,West,,,,,,,,,,,
 # Team format:,Conference,Division,Name,Abbr,Prestige,Rival,,,,,,,
 # SEC,,,,,,,,,,,,,
 TEAM,SEC,West,Alabama,ALA,95,TEN,,,,,,,
