@@ -70,22 +70,26 @@ TEAM,MWC,Sheriff,Colorado St,CSU,60,WYO,,,,,,,
 TEAM,MWC,Outlaw,Wyoming,WYO,60,CSU,,,,,,,
 # PAC10,,,,,,,,,,,,,
 TEAM,PAC10,North,Oregon State,ORST,60,ORE,,,,,,,
-TEAM,PAC10,North,Washington,WASH,65,WSU,,,,,,,
-TEAM,PAC10,North,Arizona State,ASU,60,ARIZ,,,,,,,
+TEAM,PAC10,North,Washington,UW,65,WSU,,,,,,,
+TEAM,PAC10,North,Arizona State,ASU,60,UA,,,,,,,
 TEAM,PAC10,North,USC,USC,70,UCLA,,,,,,,
-TEAM,PAC10,North,Stanford,STAN,90,BYU,,,,,,,
-TEAM,PAC10,North,San Jose State,SJSU,45,TTU,,,,,,,
-TEAM,PAC10,North,San Diego State,SDSU,70,TLSA,,,,,,,
-
-TEAM,PAC10,South,Oregon,ORE,90,UTAH,,,,,,,
-TEAM,PAC10,South,Washington State,WSU,75,ASU,,,,,,,
-TEAM,PAC10,South,Arizona,ARIZ,75,WASH,,,,,,,
-TEAM,PAC10,South,UCLA,UCLA,85,CAL,,,,,,,
-TEAM,PAC10,South,California,CAL,70,UCLA,,,,,,,
-TEAM,PAC10,South,Fresno State,FNST,70,NAVY,,,,,,,
-TEAM,PAC10,South,Hawaii,HAW,65,TULN,,,,,,,
-
+TEAM,PAC10,North,Stanford,STAN,90,CAL,,,,,,,
+TEAM,PAC10,North,San Jose State,SJSU,45,FNST,,,,,,,
+TEAM,PAC10,North,San Diego State,SDSU,70,HAW,,,,,,,
+TEAM,PAC10,South,Oregon,ORE,90,ORST,,,,,,,
+TEAM,PAC10,South,Washington State,WSU,45,UW,,,,,,,
+TEAM,PAC10,South,Arizona,UA,65,ASU,,,,,,,
+TEAM,PAC10,South,UCLA,UCLA,55,USC,,,,,,,
+TEAM,PAC10,South,California,CAL,60,STAN,,,,,,,
+TEAM,PAC10,South,Fresno State,FNST,70,SJSU,,,,,,,
+TEAM,PAC10,South,Hawaii,HAW,75,SDSU,,,,,,,
 # SEC,,,,,,,,,,,,,
+
+
+
+
+
+
 TEAM,SEC,West,Alabama,ALA,95,TEN,,,,,,,
 TEAM,SEC,West,LSU,LSU,85,UF,,,,,,,
 TEAM,SEC,West,Auburn,AUB,85,UGA,,,,,,,
